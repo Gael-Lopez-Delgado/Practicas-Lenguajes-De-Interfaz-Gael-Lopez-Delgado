@@ -7,11 +7,11 @@
 ## Índice
 1. `P01_CiclosNumericos.asm` — Ciclos numéricos[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/blob/main/Practicas_Lenguajes_de_Interfaz/01_Ciclos_Numericos.asm#L4
 ](url)   
-2. `P02_CapturaMensaje.asm` — Captura y despliegue de mensaje[](url)
-3. `P03_ComparacionPrueba.asm` — Comparación y prueba[](url)
-4. `P04_Saltos.asm` — Saltos[](url)
-5. `P04_1_MayorMenorIgual.asm` — Mayor, menor o igual con entrada del usuario[](url)
-6. `P05_Condicionales.asm` — Condicionales[](url)
+2. `P02_CapturaMensaje.asm` — Captura y despliegue de mensaje[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/tree/main/Practicas_Lenguajes_de_Interfaz](url)
+3. `P03_ComparacionPrueba.asm` — Comparación y prueba[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/tree/main/Practicas_Lenguajes_de_Interfaz](url)
+4. `P04_Saltos.asm` — Saltos[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/tree/main/Practicas_Lenguajes_de_Interfaz](url)
+5. `P04_1_MayorMenorIgual.asm` — Mayor, menor o igual con entrada del usuario[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/tree/main/Practicas_Lenguajes_de_Interfaz](url)
+6. `P05_Condicionales.asm` — Condicionales[https://github.com/Gael-Lopez-Delgado/Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/tree/main/Practicas_Lenguajes_de_Interfaz](url)
 7. `P05_1_RepetirHastaCero.asm` — Repetir hasta que el usuario ingrese 0[](url)
 8. `P06_DecrementoIncremento.asm` — Decremento e incremento[](url)
 9. `P06_1_Estacionamiento.asm` — Control de ocupación de estacionamiento[](url)
