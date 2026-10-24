@@ -5,7 +5,7 @@
  Docente: Dr. José Luis Medina Jiménez
 
 ## Índice
-1. `P01_CiclosNumericos.asm` — Ciclos numéricos
+1. `P01_CiclosNumericos.asm` — Ciclos numéricos 
 2. `P02_CapturaMensaje.asm` — Captura y despliegue de mensaje
 3. `P03_ComparacionPrueba.asm` — Comparación y prueba
 4. `P04_Saltos.asm` — Saltos
