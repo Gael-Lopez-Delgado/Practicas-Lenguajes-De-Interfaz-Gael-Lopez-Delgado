@@ -5,7 +5,8 @@
  Docente: Dr. José Luis Medina Jiménez
  
 ## Índice
-1. `P01_CiclosNumericos.asm` — Ciclos numéricos[Practicas_Lenguajes_de_Interfaz/01_Ciclos_Numericos.asm](url)   
+1. `P01_CiclosNumericos.asm` — Ciclos numéricos[Practicas-Lenguajes-De-Interfaz-Gael-Lopez-Delgado/Practicas_Lenguajes_de_Interfaz
+/01_Ciclos_Numericos.asm](url)   
 2. `P02_CapturaMensaje.asm` — Captura y despliegue de mensaje[](url)
 3. `P03_ComparacionPrueba.asm` — Comparación y prueba[](url)
 4. `P04_Saltos.asm` — Saltos[](url)
